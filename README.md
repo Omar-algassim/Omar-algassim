@@ -7,7 +7,7 @@
 - ⚡ Fun fact: pointr is life
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,jquery,nodejs,py,ts,bash,docker,c,vim,mongodb,arduino,django,express,flask,mongodb,mysql,react,nginx,linux,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,jquery,nodejs,py,ts,bash,docker,c,vim,mongodb,arduino,django,express,flask,mongodb,mysql,react,nginx,linux,ubuntu,vscode&perline=12" />
   </a>
 </p>
 
