@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Omar-algassim
 - 👀 I’m interested in web develobment and machine learning
-- 🌱 I’m currently learning web develpment
+- 🌱 I’m currently software engineer
 - 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me omarelgassim@gmail.com
 - 😄 Pronouns: NULL
-- ⚡ Fun fact: pointr is life 
+- ⚡ Fun fact: pointr is life
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,jquery,nodejs,py,ts,bash,docker,c,vim,mongodb,arduino,django,express,flask,mongodb,mysql,react,nginx,linux,ubuntu,vscode" />
+  </a>
+</p>
 
 <!---
 Omar-algassim/Omar-algassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
